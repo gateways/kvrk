@@ -1,4 +1,4 @@
-name: Infrastruktur for Forskning
+name: Infrastruktur for Forskning.
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 # pygments: true
