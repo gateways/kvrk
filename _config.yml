@@ -1,5 +1,6 @@
-name: Infrastruktur for Forskning.
+name: Infrastruktur for Forskning
 markdown: kramdown
+timezone: GB
 permalink: /blog/:year/:month/:day/:title
 # pygments: true
 gems:
