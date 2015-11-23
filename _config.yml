@@ -1,6 +1,6 @@
 name: kvrk
 domain: kvrk.no
-project: Infrastruktur for Forskning
+project: Infrastruktur for Forskning - kvrk
 markdown: kramdown
 timezone: GB
 permalink: /blog/:year/:month/:day/:title
