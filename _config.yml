@@ -5,6 +5,8 @@ markdown: kramdown
 timezone: GB
 permalink: /blog/:year/:month/:day/:title
 permalink: /diagnosis/:year/:month/:day/:title
+permalink: /prescription/:year/:month/:day/:title
+permalink: /procedure/:year/:month/:day/:title
 # pygments: true
 gems:
   - jekyll-sitemap
