@@ -4,6 +4,7 @@ project: Infrastruktur for Forskning
 markdown: kramdown
 timezone: GB
 permalink: /blog/:year/:month/:day/:title
+permalink: /diagnosis/:year/:month/:day/:title
 # pygments: true
 gems:
   - jekyll-sitemap
