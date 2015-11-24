@@ -3,7 +3,7 @@ domain: kvrk.no
 description: Kvrk.no - Kodeverk kverkeren
 project: Infrastruktur for Forskning - kvrk
 author: kvrk
-author_email: later@example.com
+author_email: ltrgtr@example.com
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
