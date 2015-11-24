@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 title: {%% gateway.name %%} - IFF Net
 categories: diagnosis
 ---
