@@ -1,11 +1,15 @@
 name: kvrk
 domain: kvrk.no
+description: Kvrk.no - Kodeverk kverkeren
 project: Infrastruktur for Forskning - kvrk
+author: kvrk
+author_email: later@example.com
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 timezone: GB
+permalink: pretty
 permalink: /blog/:year/:month/:day/:title
 # pygments: true
 gems:
