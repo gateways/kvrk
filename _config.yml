@@ -1,6 +1,6 @@
 name: kvrk
 domain: kvrk.no
-project: Infrastruktur for Forskning
+project: Infrastruktur for Forskning - kvrk
 markdown: redcarpet
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 redcarpet:
