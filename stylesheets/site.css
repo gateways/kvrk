@@ -329,6 +329,7 @@ a.navbar-brand
   margin-bottom:50px;
 }
 .banner-wrapper .item { overflow-x:hidden; overflow-y:auto; height:450px; }
+
 @media (min-width: 768px) {
   .banner-wrapper .item { height:370px; }
 }
